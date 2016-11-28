@@ -40,12 +40,20 @@
     </nav>
 
         <img id="heading" src="/images/heading-center-wasserman-subotnick.png" />
-            <h1 id="slide-title">The Wasserman Trading Floor in the Subotnick Financial Services Center</h1><div class="email-print-buttons"><a target="blank" href="http://zicklin.baruch.cuny.edu/centers/subotnick/the-wasserman-trading-floor-in-the-subotnick-financial-services-center/sendto_form"><img src="/images/email.gif" /></a><a href="javascript:this.print()"><img src="/images/print.gif" /></a></div>
+            <h1 id="slide-title">The Wasserman Trading Floor in the Subotnick Financial Services Center</h1>
+                <div id="email-print-buttons">
+                    <a href="http://zicklin.baruch.cuny.edu/centers/subotnick/the-wasserman-trading-floor-in-the-subotnick-financial-services-center/sendto_form" target="blank">
+                        <img src="/images/email.gif" />
+                        </a>
+                    <a href="javascript:this.print()">
+                        <img src="/images/print.gif" />
+                        </a>
+                </div>
             <div id="my-side-nav">
                 <ul class="left-nav">              
                     <li class="the-left-nav"><a href="index.aspx">WASSERMAN TRADING FLOOR</a></li>              
                     <li class="the-left-nav"><a href="about.html">About Us</a></li>                         
-                    <li class="the-left-nav"><a href="#">Events</a></li>
+                    <li class="the-left-nav"><a href="sendForm.html">FormPage</a></li>
                     <li class="the-left-nav"><a href="#">Student Resources</a></li>
                     <li class="the-left-nav"><a href="#">Tours & Media</a></li>
                     <li class="the-left-nav"><a href="#">Contact Us</a></li>

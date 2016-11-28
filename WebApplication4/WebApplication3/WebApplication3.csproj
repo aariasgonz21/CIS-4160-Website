@@ -79,6 +79,7 @@
   <ItemGroup>
     <Content Include="about.html" />
     <Content Include="resources.html" />
+    <Content Include="sendForm.html" />
     <Content Include="styles.css" />
     <Content Include="support.html" />
     <Content Include="technicalinformation.html" />

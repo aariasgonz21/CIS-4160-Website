@@ -72,7 +72,7 @@
         }
         #myNav li a{
             color:#fff;
-            padding: 1px 23px 15px 15px;
+            padding: 1px 15px 15px 15px;
         }
         #myNav li a:hover{  
                     
@@ -217,14 +217,25 @@
             color: #FF9933;
         }
         
-       .email-print-buttons{
-           width: 250px;
-           margin: 15px -850px 0px 0px;
+       #email-print-buttons{
+           width: 350px;
+           margin: 15px 850px;
+           position: absolute;
+       }
+       .email-print-buttons-about {
+            margin: -29px 0px 0px 600px;
+    }
+       
+       #send{
+           width: 650px;
            float: right;
+           border-bottom: 1px solid #8db0b7;
+           font-size: 11px;
+           font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Myriad Pro", Myriad, Geneva, Arial, "Lucida Grande", sans-serif;
+           color: #000066;
        }
-       .email-print-buttons-about{
-           margin: -29px 0px 0px 600px;
-       }
+
+   
        
         #foot{
             color: #fff;           
