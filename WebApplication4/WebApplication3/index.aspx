@@ -61,9 +61,10 @@
                 </ul>
             </div>
       <div id="my-content-box">
-        <div id="slide-image-with-paragraph">
+          <div id="slide-image-with-paragraph">
             <img id="slide" src="/images/subotnick-slide-5.jpg" />
-                <p id="slide-paragraph">The Wasserman Trading Floor in the Subotnick Financial Services Center
+              <p>Click <a href="WebForm2.aspx">here</a> to go the database.</p> 
+              <p id="slide-paragraph">The Wasserman Trading Floor in the Subotnick Financial Services Center
              is one of the largest and most technologically advanced educational
             facilities of its kind with 55 workstations and dozens of professional
             financial software tools. The Center provides experiential learning opportunities
